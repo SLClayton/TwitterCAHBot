@@ -212,11 +212,7 @@ def tweet_new_combo():
 
     combo = get_new_combo(b, w)
 
-    suffix_string = ""
-    if random.randint(0, 144) == 50:
-        suffix_string = "\n\n#CardsAgainstHumanity #CAH"
-
-    tweet_text = "{}{}".format(combo.text, suffix_string)
+    tweet_text = combo.text
 
     tweet = twitter_api.PostUpdate(status=tweet_text)
 
