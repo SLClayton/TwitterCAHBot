@@ -1,0 +1,5066 @@
+[
+  {
+    "id": "Q32",
+    "type": "Q",
+    "text": "_ be all like _.",
+    "answers": 2,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q137",
+    "type": "Q",
+    "text": "_ may pass, but _ will last forever.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q173",
+    "type": "Q",
+    "text": "_ will never be the same after _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q178",
+    "type": "Q",
+    "text": "_ would be woefully incomplete without _.",
+    "answers": 2,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q232",
+    "type": "Q",
+    "text": "_? Jim’ll fix it!",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q236",
+    "type": "Q",
+    "text": "_. That’s why mums go to Iceland.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q237",
+    "type": "Q",
+    "text": "_. Once you pop, the fun don’t stop!",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q286",
+    "type": "Q",
+    "text": "_: Brought to you by _.",
+    "answers": 2,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q289",
+    "type": "Q",
+    "text": "_: good to the last drop.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q291",
+    "type": "Q",
+    "text": "_: Hours of fun. Easy to use. Perfect for _!",
+    "answers": 2,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q302",
+    "type": "Q",
+    "text": "_: kid tested, mother approved.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q303",
+    "type": "Q",
+    "text": "_: kid-tested, mother-approved.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q310",
+    "type": "Q",
+    "text": "_: Once you pop, the fun don't stop!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q325",
+    "type": "Q",
+    "text": "_? Jim'll fix it!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q331",
+    "type": "Q",
+    "text": "_? There's an app for that.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q334",
+    "type": "Q",
+    "text": "_? Yeah, nah.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q346",
+    "type": "Q",
+    "text": "_. Awesome in theory, kind of a mess in practice.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q347",
+    "type": "Q",
+    "text": "_. Betcha can't have just one!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q349",
+    "type": "Q",
+    "text": "_. High five, bro.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q355",
+    "type": "Q",
+    "text": "_. It's a trap!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q366",
+    "type": "Q",
+    "text": "_. That was so metal.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q370",
+    "type": "Q",
+    "text": "_. That's how I want to die.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q371",
+    "type": "Q",
+    "text": "_. That's why mums go to Iceland.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q384",
+    "type": "Q",
+    "text": "_! All alone in the moonlight!",
+    "answers": 1,
+    "set": "theatre pack - cats musical pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q489",
+    "type": "Q",
+    "text": "\"They’re bringing drugs. They’re bringing crime. They’re rapists. And some, I assume, are _.\"",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q490",
+    "type": "Q",
+    "text": "\"This is madness.\" \"No, THIS IS _!\"",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q517",
+    "type": "Q",
+    "text": "★✰✰✰✰ Do NOT go here! Found _ in my Kung Pao chicken!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q521",
+    "type": "Q",
+    "text": "2 AM in the city that never sleeps. The door swings open and she walks in, legs up to here. Something in her eyes tells me she's looking for _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q528",
+    "type": "Q",
+    "text": "50% of all marriages end in _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q541",
+    "type": "Q",
+    "text": "A curse upon thee! Many years from now, just when you think you're safe, _ shall turn into _.",
+    "answers": 1,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q575",
+    "type": "Q",
+    "text": "A recent laboratory study shows that undergraduates have 50% less sex after being exposed to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q577",
+    "type": "Q",
+    "text": "A remarkable new study has shown that chimps have evolved their own primitive version of _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q578",
+    "type": "Q",
+    "text": "A romantic candlelit dinner would be incomplete without _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q579",
+    "type": "Q",
+    "text": "A romantic, candlelit dinner would be incomplete without _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q586",
+    "type": "Q",
+    "text": "A successful job interview begins with a firm handshake and ends with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q598",
+    "type": "Q",
+    "text": "A wise man said, \"Everything is about sex. Except sex. Sex is about _.\"",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q599",
+    "type": "Q",
+    "text": "ABC presents: \"_: The Story of _.\"",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q604",
+    "type": "Q",
+    "text": "According to Arizona's stand-your-ground law, you're allowed to shoot someone if they're _.",
+    "answers": 1,
+    "set": "vote for trump pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q605",
+    "type": "Q",
+    "text": "According to Freud, all children progress through three stages of development: the oral stage, the anal stage, and the _ stage.",
+    "answers": 1,
+    "set": "jew pack/chosen people pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q621",
+    "type": "Q",
+    "text": "Adventure. Romance. _. From Paramount Pictures, \"_.\"",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q641",
+    "type": "Q",
+    "text": "After blacking out during New Year's Eve, I was awoken by _.",
+    "answers": 1,
+    "set": "2012 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q644",
+    "type": "Q",
+    "text": "After eight years in the White House, how is Obama finally letting loose?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q645",
+    "type": "Q",
+    "text": "After four platinum albums and three Grammys, it's time to get back to my roots, to what inspired me to make music in the first place: _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q647",
+    "type": "Q",
+    "text": "After Hurricane Katrina, Sean Penn brought _ to all the people of New Orleans.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q648",
+    "type": "Q",
+    "text": "After Hurricane Katrina, Sean Penn brought _ to the people of New Orleans.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q655",
+    "type": "Q",
+    "text": "After months of debate, the Occupy Wall Street General Assembly could only agree on \"More _!\"",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q656",
+    "type": "Q",
+    "text": "After months of practice with _, I think I’m finally ready for _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q671",
+    "type": "Q",
+    "text": "After the earthquake, Sean Penn brought _ to the people of Haiti.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q690",
+    "type": "Q",
+    "text": "Ahhh _! Toodle pip!",
+    "answers": 1,
+    "set": "theatre pack - cats musical pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q692",
+    "type": "Q",
+    "text": "Ain't it nifty? Barb and Bob hit 50! So get off your ass and raise a glass to 50 years of _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q694",
+    "type": "Q",
+    "text": "Air Canada guidelines now prohibit _ on airplanes.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q698",
+    "type": "Q",
+    "text": "Airport security guidelines now prohibit _ on airplanes.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q722",
+    "type": "Q",
+    "text": "Alright everybody, HOLD!\nKelly, why is there _ on my stage?",
+    "answers": 1,
+    "set": "theatre pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q723",
+    "type": "Q",
+    "text": "Alright, bros. Our frat house is condemned, and all the hot slampieces are over at Gamma Phi. The time has come to commence Operation _.",
+    "answers": 1,
+    "set": "cah: fourth expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q724",
+    "type": "Q",
+    "text": "Alternative medicine is now embracing the curative powers of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q735",
+    "type": "Q",
+    "text": "America is hungry. America needs _.",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q746",
+    "type": "Q",
+    "text": "An international tribunal has found _ guilty of _.",
+    "answers": 2,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q758",
+    "type": "Q",
+    "text": "And I would have gotten away with it, too, if it hadn't been for _!",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q766",
+    "type": "Q",
+    "text": "And the BAFTA for _ goes to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q767",
+    "type": "Q",
+    "text": "And the BAFTA for _ goes to _.",
+    "answers": 2,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q770",
+    "type": "Q",
+    "text": "And today's soup is Cream of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q771",
+    "type": "Q",
+    "text": "And what did you bring for show and tell?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q773",
+    "type": "Q",
+    "text": "And would you like those buffalo wings mild, hot, or _?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q779",
+    "type": "Q",
+    "text": "Anthropologists have recently discovered a primitive tribe that worships _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q789",
+    "type": "Q",
+    "text": "Arby's: We Have _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q791",
+    "type": "Q",
+    "text": "Are you thinking what I'm thinking, B1?\n\nI think I am, B2: it's _ time!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q793",
+    "type": "Q",
+    "text": "Armani suit: $1,000. Dinner for two at that swanky restaurant: $300. The look on her face when you surprise her with _: priceless.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q794",
+    "type": "Q",
+    "text": "Art isn’t just a painting in a stuffy museum. Art is alive. Art is _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q817",
+    "type": "Q",
+    "text": "As king, how will I keep the peasants in line?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q819",
+    "type": "Q",
+    "text": "As my New Year's resolution, I vow to give up _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q821",
+    "type": "Q",
+    "text": "As part of his contract, Prince won’t perform without _ in his dressing room.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q822",
+    "type": "Q",
+    "text": "As part of his daily regimen, Anderson Cooper sets aside 15 minutes for _.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q828",
+    "type": "Q",
+    "text": "As reparations for slavery, all African Americans will receive _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q829",
+    "type": "Q",
+    "text": "As repartations for slavery, all African Americans will receive _.",
+    "answers": 1,
+    "set": "vote for hillary pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q830",
+    "type": "Q",
+    "text": "As Teddy Roosevelt said, the four manly virtues are honor, temperance, industry, and _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q832",
+    "type": "Q",
+    "text": "As the mom of five rambunctious boys, I'm no stranger to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q833",
+    "type": "Q",
+    "text": "As the mum of five rambunctious boys, I'm no stranger to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q842",
+    "type": "Q",
+    "text": "Astronomers have discovered that the universe consists of 5% ordinary matter, 25% dark matter, and 70% _.",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q878",
+    "type": "Q",
+    "text": "Awww, sick! I just saw this skater do a 720 kickflip into _!",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q879",
+    "type": "Q",
+    "text": "Awww, sick! I just say this skater do a 720 kickflip into _!",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q886",
+    "type": "Q",
+    "text": "Backers who supported Tabletop at the $25,000 level were astonished to receive _ from Wil Wheaton himself.",
+    "answers": 1,
+    "set": "tabletop pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q898",
+    "type": "Q",
+    "text": "Because they are forbidden from masturbating, Mormons channel their repressed sexual energy into _.",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q899",
+    "type": "Q",
+    "text": "Because you enjoyed _, we thought you'd like _.",
+    "answers": 2,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q901",
+    "type": "Q",
+    "text": "Before _, all we had was _.",
+    "answers": 2,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q912",
+    "type": "Q",
+    "text": "Before I run for president, I must destroy all evidence of my involvement with _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q917",
+    "type": "Q",
+    "text": "Before swallowing his pride and a cyanide pill, Adolf whispered to Eva, \"Sorry about _\".",
+    "answers": 1,
+    "set": "fascism pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q919",
+    "type": "Q",
+    "text": "Behind every powerful man is _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q921",
+    "type": "Q",
+    "text": "Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and _.",
+    "answers": 1,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q935",
+    "type": "Q",
+    "text": "Best you go back where you came from, now. We don’t take too kindly to _ in these parts.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q936",
+    "type": "Q",
+    "text": "Betcha can't have just one!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q941",
+    "type": "Q",
+    "text": "BILLY MAYS HERE FOR _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q943",
+    "type": "Q",
+    "text": "Blessed are you, Lord our God, creator of the universe, who has granted us _.",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q949",
+    "type": "Q",
+    "text": "BowWOW! is the first pet hotel in LA that offers _ for dogs.",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q954",
+    "type": "Q",
+    "text": "Bravo's new reality show features eight washed-up celebrities living with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q960",
+    "type": "Q",
+    "text": "Brought to you by Bud Light®, the Official Beer of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q961",
+    "type": "Q",
+    "text": "Brought to you by Molson Canadian, the Official Beer of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q962",
+    "type": "Q",
+    "text": "Brought to you by XXXX Gold, the Official Beer of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q968",
+    "type": "Q",
+    "text": "But before I kill you, Mr. Bond, I must show you _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q969",
+    "type": "Q",
+    "text": "But wait, there’s more! If you order _ in the next 15 minutes, we’ll throw in _ absolutely free!",
+    "answers": 2,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q981",
+    "type": "Q",
+    "text": "Call the law offices of Goldstein & Goldstein, because no one should have to tolerate _ in the workplace.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q995",
+    "type": "Q",
+    "text": "Can't you see? The Jews are behind everything-the banks, the media, even _!",
+    "answers": 1,
+    "set": "jew pack/chosen people pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q996",
+    "type": "Q",
+    "text": "Cancel all my meetings. We've got a situation with _ that requires my immediate attention.",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1006",
+    "type": "Q",
+    "text": "CBC presents \"_: the Story of _.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1007",
+    "type": "Q",
+    "text": "Channel 4 presents _, the story of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1008",
+    "type": "Q",
+    "text": "Channel 4 presents “_: the Story of _.”",
+    "answers": 2,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1009",
+    "type": "Q",
+    "text": "Channel 5's new reality show features eight washed-up celebrities living with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1010",
+    "type": "Q",
+    "text": "Channel 5’s new reality show features eight washed-up celebrities living with _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1011",
+    "type": "Q",
+    "text": "Channel 9 is pleased to present its new variety show, \"Hey Hey It's _.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1012",
+    "type": "Q",
+    "text": "Charades was ruined for me forever when my mom had to act out _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1015",
+    "type": "Q",
+    "text": "Check me out, yo! I call this dance move \"_.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1034",
+    "type": "Q",
+    "text": "Click Here for _!!!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1038",
+    "type": "Q",
+    "text": "CNN breaking news! Scientists discover _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1047",
+    "type": "Q",
+    "text": "Come to Dubai, where you can relax in our world famous spas, experience the nightlife, or simply enjoy _ by the poolside.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1050",
+    "type": "Q",
+    "text": "Comedy = Tragedy + _.",
+    "answers": 1,
+    "set": "theatre pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1055",
+    "type": "Q",
+    "text": "Coming this season, Samuel Beckett's classic existential play: Waiting for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1056",
+    "type": "Q",
+    "text": "Coming this spring from BioWare, Mass Effect: _.",
+    "answers": 1,
+    "set": "mass effect pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1057",
+    "type": "Q",
+    "text": "Coming to Broadway next season: \"_ on the Roof.\"",
+    "answers": 1,
+    "set": "jew pack/chosen people pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1058",
+    "type": "Q",
+    "text": "Coming to Broadway this season, _: The Musical.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1059",
+    "type": "Q",
+    "text": "Coming to Red Lobster® this month, _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1062",
+    "type": "Q",
+    "text": "Coming to the West End this year, _: The Musical.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1063",
+    "type": "Q",
+    "text": "Coming to the West End this year, _: The Musical.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1064",
+    "type": "Q",
+    "text": "Coming up on Turner Classic Movies:\nSean Connery and Alec Baldwin star in \"The Hunt for _.\"",
+    "answers": 1,
+    "set": "dad pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1071",
+    "type": "Q",
+    "text": "Congratulations! You have been selected for our summer internship program. While we are unable to offer a salary, we can offer you _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1080",
+    "type": "Q",
+    "text": "Corruption. Betrayal. _. Coming soon to Netflix, \"House of _.\"",
+    "answers": 2,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1085",
+    "type": "Q",
+    "text": "Crikey! I've never seen _ like this before! Let's get a bit closer.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1088",
+    "type": "Q",
+    "text": "Cry havoc and let slip _!",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1089",
+    "type": "Q",
+    "text": "CTV presents _, the story of _.",
+    "answers": 2,
+    "set": "cah: canadian conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1090",
+    "type": "Q",
+    "text": "CTV presents \"_: the Story of _.\"",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1101",
+    "type": "Q",
+    "text": "Daddy, why is mommy crying?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1102",
+    "type": "Q",
+    "text": "Daddy, why is mummy crying?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1105",
+    "type": "Q",
+    "text": "Dammit Gary. You can't just solve every problem with _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1106",
+    "type": "Q",
+    "text": "Dammit, Gary.  You can't just solve every problem with _.",
+    "answers": 1,
+    "set": "cah: fourth expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1111",
+    "type": "Q",
+    "text": "Dance like there’s nobody watching, love like you’ll never be hurt, and live like you’re _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1114",
+    "type": "Q",
+    "text": "Dear Abby, I'm having some trouble with _ and would like your advice.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1115",
+    "type": "Q",
+    "text": "Dear Agony Aunt, I'm having some trouble with _ and I need your advice.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1116",
+    "type": "Q",
+    "text": "Dear Agony Aunt, I’m having some trouble with _ and would like your advice.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1124",
+    "type": "Q",
+    "text": "Dear Leader Kim Jong-un, our village praises your infinite wisdom with a humble offering of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1125",
+    "type": "Q",
+    "text": "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about _. I love you, Casey",
+    "answers": 1,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1130",
+    "type": "Q",
+    "text": "Dear Sir or Madam, We regret to inform you that the Office of _ has denied your request for _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1142",
+    "type": "Q",
+    "text": "Desert Bus: _ for the children.",
+    "answers": 1,
+    "set": "desert bus for hope pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1163",
+    "type": "Q",
+    "text": "Do not fuck with me! I am literally _ right now.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1164",
+    "type": "Q",
+    "text": "Do the Dew with our most extreme flavor yet! Get ready for Mountain Dew _!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1168",
+    "type": "Q",
+    "text": "Do you lack energy? Does it sometimes feel like the whole world is _ ? Ask your doctor about Zoloft.®",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1169",
+    "type": "Q",
+    "text": "Do you lack energy? Does it sometimes feel like the whole world is _? Zoloft.",
+    "answers": 1,
+    "set": "cah: fifth expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1175",
+    "type": "Q",
+    "text": "Doctor, you've gone too far! The human body wasn't meant to withstand that amount of _!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1184",
+    "type": "Q",
+    "text": "Don't forget! Beginning this week, Casual Friday will officially become \"_ Friday.\"",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1199",
+    "type": "Q",
+    "text": "Don't worry kid. It gets better. I've been living with _ for 20 years.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1210",
+    "type": "Q",
+    "text": "Donald Trump has nominated _ for his VP.",
+    "answers": 1,
+    "set": "trump bug out bag/post-trump pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1217",
+    "type": "Q",
+    "text": "Donald Trump's first act as presidnet was to outlaw _.",
+    "answers": 1,
+    "set": "trump bug out bag/post-trump pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1219",
+    "type": "Q",
+    "text": "Donna, pick up my dry cleaning and get my wife something for Christmas. I think she likes _.",
+    "answers": 1,
+    "set": "seasons greetings pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1226",
+    "type": "Q",
+    "text": "Dude, do not go in that bathroom. There's _ in there.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1227",
+    "type": "Q",
+    "text": "Dude, do not go in that washroom. There's _ in there.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1231",
+    "type": "Q",
+    "text": "Due to a PR fiasco, Walmart no longer offers _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1244",
+    "type": "Q",
+    "text": "During high school I never really fit in until I found _ club.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1245",
+    "type": "Q",
+    "text": "During his childhood, Salvador Dali produced hundreds of paintings of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1246",
+    "type": "Q",
+    "text": "During his midlife crisis, my dad got really into _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1251",
+    "type": "Q",
+    "text": "During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1255",
+    "type": "Q",
+    "text": "During sex, I like to think about _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1269",
+    "type": "Q",
+    "text": "Duuuuuuude. You have got to go to space. _ is awesome in space.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1285",
+    "type": "Q",
+    "text": "Errbody in the club _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1295",
+    "type": "Q",
+    "text": "Every Christmas, my uncle gets drunk and tells the story about _.",
+    "answers": 1,
+    "set": "2012 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1300",
+    "type": "Q",
+    "text": "Every step towards _ gets me a little bit closer to _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1309",
+    "type": "Q",
+    "text": "Everybody join hands and close your eyes. Do you sense that? That's the presence of _ in this room.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1315",
+    "type": "Q",
+    "text": "Everyone down on the ground! We don't want to hurt anyone. We're just here for _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1330",
+    "type": "Q",
+    "text": "Excuse me, straight man, but _ isn't for you, STRAIGHT MAN.",
+    "answers": 1,
+    "set": "pride pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1348",
+    "type": "Q",
+    "text": "Feeling so grateful! #amazing #mylife #_.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1350",
+    "type": "Q",
+    "text": "Finally! A service that delivers _ right to your door.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1357",
+    "type": "Q",
+    "text": "Five,\nfour,\nthree,\ntwo,\none….\n_!",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1375",
+    "type": "Q",
+    "text": "For hunting in the King's forest, I hereby sentence you to death by _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1384",
+    "type": "Q",
+    "text": "For my turn, I will spend four gold and allocate all three workers to _.",
+    "answers": 1,
+    "set": "tabletop pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1395",
+    "type": "Q",
+    "text": "Forget everything you know about _, because now we've supercharged it with _!",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1419",
+    "type": "Q",
+    "text": "From WBEZ Chicago, it's This American Life. Today on our program, _. Stay with us.",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1424",
+    "type": "Q",
+    "text": "Fun tip! When your man asks you to go down on him, try surprising him with _ instead.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1425",
+    "type": "Q",
+    "text": "Future historians will agree that _ marked the beginning of America's decline.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1426",
+    "type": "Q",
+    "text": "FW: re:\nFBI WARNING!!! VIOLENT GANGS USING _ TO RECRUIT CHILDREN!",
+    "answers": 1,
+    "set": "dad pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1445",
+    "type": "Q",
+    "text": "Get ready for the movie of the summer! One cop plays by the book. The other's only interested in one thing: _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1449",
+    "type": "Q",
+    "text": "Girls just wanna have _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1454",
+    "type": "Q",
+    "text": "Give me ten good men and 48 hours. I'll get you _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1464",
+    "type": "Q",
+    "text": "GOD HATES _!",
+    "answers": 1,
+    "set": "pride pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1466",
+    "type": "Q",
+    "text": "Goldfinger!\nHe's the man,\nthe man with _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1473",
+    "type": "Q",
+    "text": "Goodbye, _, hello _!",
+    "answers": 2,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1474",
+    "type": "Q",
+    "text": "Google Calendar alert: _ in 10 minutes.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1491",
+    "type": "Q",
+    "text": "GREETINGS HUMANS\nI AM _ BOT\nEXECUTING PROGRAM.",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1518",
+    "type": "Q",
+    "text": "Having problems with _? Try _!",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1520",
+    "type": "Q",
+    "text": "Having the worst day EVER. #_",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1529",
+    "type": "Q",
+    "text": "He who controls _ controls the world.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1535",
+    "type": "Q",
+    "text": "Heed my voice, mortals! I am the god of _ , and I will not tolerate _!",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1540",
+    "type": "Q",
+    "text": "Help me doctor, I've got _ in my butt!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1542",
+    "type": "Q",
+    "text": "Here at the Academy for Gifted Children, we allow students to explore _ at their own pace.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1543",
+    "type": "Q",
+    "text": "Here is the church\nHere is the steeple\nOpen the doors\nAnd there is _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1545",
+    "type": "Q",
+    "text": "Here lies _, 2020, devoted friend, lover of _.",
+    "answers": 2,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1548",
+    "type": "Q",
+    "text": "Here's a little something I learned in business school: The customer is always _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1550",
+    "type": "Q",
+    "text": "Here's what you can expect for the new year.\nOut: _.\nIn: _.",
+    "answers": 2,
+    "set": "seasons greetings pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1551",
+    "type": "Q",
+    "text": "Here’s what you can expect for the new year.\nOut: _.\nIn: _.",
+    "answers": 2,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1553",
+    "type": "Q",
+    "text": "Hey baby, come back to my place and I’ll show you _.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1557",
+    "type": "Q",
+    "text": "Hey guys, welcome to Boston Pizza! Would you like to start the night off right with _?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1558",
+    "type": "Q",
+    "text": "Hey guys, welcome to Chili's! Would you like to start the night off right with _?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1559",
+    "type": "Q",
+    "text": "Hey guys, welcome to Sizzler! Would you like to start the night off right with _?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1560",
+    "type": "Q",
+    "text": "Hey guys, welcome to TGIF! Would you like to start the night off right with _?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1564",
+    "type": "Q",
+    "text": "Hey Reddit! I'm _. Ask me anything.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1567",
+    "type": "Q",
+    "text": "Hey, honey.\nFor the bedroom, were you thinking, \"Robin's Egg Blue\" or _Pink?\"",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1568",
+    "type": "Q",
+    "text": "Hey, kids.\nI'm Connor's dad, but you can call me Mr. _.",
+    "answers": 1,
+    "set": "dad pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1571",
+    "type": "Q",
+    "text": "Hey, whatever happened to Renee Zellweger?",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1574",
+    "type": "Q",
+    "text": "Hey, you guys want to try this awesome new game? It’s called _.",
+    "answers": 1,
+    "set": "tabletop pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1576",
+    "type": "Q",
+    "text": "Hi MTV! My name is Kendra, I live in Malibu, I'm into _, and I love to have a good time.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1577",
+    "type": "Q",
+    "text": "Hi, this is Jim from accounting. We noticed a $1,200 charge labeled \"_.\" Can you explain?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1595",
+    "type": "Q",
+    "text": "Honey, I have a new role-play I want to try tonight! You can be _, and I'll be _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1597",
+    "type": "Q",
+    "text": "Honey, Mommy and Daddy love you very much. But apparently Mommy loves _ more than she loves Daddy.",
+    "answers": 1,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q1608",
+    "type": "Q",
+    "text": "Housekeeping! You want _?",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1609",
+    "type": "Q",
+    "text": "How am I compensating for my tiny penis?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1611",
+    "type": "Q",
+    "text": "How am I maintaining my relationship status?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1622",
+    "type": "Q",
+    "text": "How did I lose my virginity?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1678",
+    "type": "Q",
+    "text": "I am become _, destroyer of _!",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1716",
+    "type": "Q",
+    "text": "I bless _ down in Africa.",
+    "answers": 1,
+    "set": "desert bus for hope pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1741",
+    "type": "Q",
+    "text": "I can't believe Netflix is using _ to promote House of Cards.",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q1790",
+    "type": "Q",
+    "text": "I do not know with what weapons World War III will be fought, but World War IV will be fought with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1806",
+    "type": "Q",
+    "text": "I don't mean to brag, but they call me the Micheal Jordan of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1808",
+    "type": "Q",
+    "text": "I don’t believe in God. I believe in _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1811",
+    "type": "Q",
+    "text": "I drink to forget _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1843",
+    "type": "Q",
+    "text": "I get by with a little help from _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1860",
+    "type": "Q",
+    "text": "I got rhythm, I’ve got music, I’ve got _. Who could ask for anything more?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1879",
+    "type": "Q",
+    "text": "I hate this job.\nI hate this place.\nMost of all, I hate _.\nI quit.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1890",
+    "type": "Q",
+    "text": "I have a strict policy. First date, dinner. Second date, kiss. Third date, _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1903",
+    "type": "Q",
+    "text": "I have solved politics.\nMy solution is _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1944",
+    "type": "Q",
+    "text": "I know when that hotline bling, that can only mean one thing: _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1951",
+    "type": "Q",
+    "text": "I learned the hard way that you can't cheer up a grieving friend with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q1980",
+    "type": "Q",
+    "text": "I love being a mom. But it's tough when my kids come home filthy from _. That's why there's Tide®.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q1996",
+    "type": "Q",
+    "text": "I may not be much to look at, but I fuck like _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2041",
+    "type": "Q",
+    "text": "I really hope my grandma doesn’t ask me to explain _ again.",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q2059",
+    "type": "Q",
+    "text": "I so drunk I _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2063",
+    "type": "Q",
+    "text": "I spent my whole life working toward _, only to have it ruined by _.",
+    "answers": 2,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2073",
+    "type": "Q",
+    "text": "I swear to God I'm gonna murder my husband if he doesn't shut the fuck up about _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2075",
+    "type": "Q",
+    "text": "I tell you, it was a non-stop fuckfest. When it was over, my asshole looked like _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2148",
+    "type": "Q",
+    "text": "I went from _ to _, all thanks to _.",
+    "answers": 3,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2152",
+    "type": "Q",
+    "text": "I went to the desert and ate of the peyote cactus. Turns out my spirit animal is _.",
+    "answers": 1,
+    "set": "cah: sixth expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2169",
+    "type": "Q",
+    "text": "I wish I hadn't lost the instruction manual for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2180",
+    "type": "Q",
+    "text": "I work my ass off all day for this family, and this is what I come home to? _!?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2228",
+    "type": "Q",
+    "text": "I'm Commander Shepard, and this is my favorite place for _ on the Citadel.",
+    "answers": 1,
+    "set": "mass effect pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2238",
+    "type": "Q",
+    "text": "I'm going on a cleanse this week. Nothing but kale juice and _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2246",
+    "type": "Q",
+    "text": "I'm Lebron James, and when I'm not slamming dunks, I love _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2250",
+    "type": "Q",
+    "text": "I'm Miss Tennessee, and if I could make the world better by changing one thing, I would get rid of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2252",
+    "type": "Q",
+    "text": "I'm no doctor, but I'm pretty sure what you're suffering from is called \"_.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2256",
+    "type": "Q",
+    "text": "I'm not going to lie. I despise _. There, I said it.",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2265",
+    "type": "Q",
+    "text": "I'm pretty sure I'm high right now, because I'm absolutely mesmerized by _.",
+    "answers": 1,
+    "set": "cah: fourth expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2266",
+    "type": "Q",
+    "text": "I'm pretty sure I'm high right now, because I\"m absolutely mesmerized by _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2282",
+    "type": "Q",
+    "text": "I'm sorry, Mrs. Chen, but there was nothing we could do. At 4:15 this morning, your son succumbed to _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2283",
+    "type": "Q",
+    "text": "I'm sorry, Professor, but I couldn't complete my homework because of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2284",
+    "type": "Q",
+    "text": "I'm sorry, Sir, but I couldn't complete my homework because of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2285",
+    "type": "Q",
+    "text": "I'm sorry, sir, but we don't allow _ at the country club.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2307",
+    "type": "Q",
+    "text": "I’ll take the BBQ bacon burger with friend egg and fuck it how about _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2310",
+    "type": "Q",
+    "text": "I’m not like the rest of you. I’m too rich and busy for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2311",
+    "type": "Q",
+    "text": "I’m sorry, sir, but your insurance plan doesn’t cover injuries caused by _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2313",
+    "type": "Q",
+    "text": "I’ve had a horrible vision, father. I saw mountains crumbling, stars falling from the sky. I saw _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2330",
+    "type": "Q",
+    "text": "If at first you don’t succeed, try _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2338",
+    "type": "Q",
+    "text": "If God didn't want us to enjoy _, he wouldn't have given us _.",
+    "answers": 2,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2409",
+    "type": "Q",
+    "text": "If you can't be with the one you love, love _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2412",
+    "type": "Q",
+    "text": "If you can't handle _, you'd better stay away from _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2413",
+    "type": "Q",
+    "text": "If you can't love yourself, how the hell you gonna love _?",
+    "answers": 1,
+    "set": "pride pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2423",
+    "type": "Q",
+    "text": "If you had to describe the Card Czar, using only one of the cards in your hand, which one would it be?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2426",
+    "type": "Q",
+    "text": "IF you like _, YOU MIGHT BE A REDNECK.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2431",
+    "type": "Q",
+    "text": "If you need him to, Remy Danton can pull some strings and get you _, but it'll cost you.",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2449",
+    "type": "Q",
+    "text": "In 1,000 years, when paper money is a distant memory, how will we pay for goods and services?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2451",
+    "type": "Q",
+    "text": "In 1,000 years, when paper money is but a distant memory, _ will be our currency.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2454",
+    "type": "Q",
+    "text": "In 2019, Donald Trump eliminated our national parks to make room for _.",
+    "answers": 1,
+    "set": "trump bug out bag/post-trump pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2463",
+    "type": "Q",
+    "text": "In a pinch, _ can be a suitable substitute for _.",
+    "answers": 2,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2470",
+    "type": "Q",
+    "text": "In a world ravaged by _ our only solace is _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2471",
+    "type": "Q",
+    "text": "In a world ravaged by _, our only solace is _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2477",
+    "type": "Q",
+    "text": "In an attempt to reach a wider audience, the National Museum of Australia has opened an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2478",
+    "type": "Q",
+    "text": "In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2485",
+    "type": "Q",
+    "text": "In Australia, _ is twice as big and twice as deadly.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2486",
+    "type": "Q",
+    "text": "In Belmarsh Prison, word is you can trade 200 cigarettes for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2487",
+    "type": "Q",
+    "text": "In bookstores now: \"From _ to _: A memoir.\"",
+    "answers": 2,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2488",
+    "type": "Q",
+    "text": "In bourgeois society, capital is independent and has individuality, while the living person is _.",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2495",
+    "type": "Q",
+    "text": "In her latest feature-length film, Tracy Beaker struggles with _ for the first time.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2496",
+    "type": "Q",
+    "text": "In her latest feature-length film, Tracy Beaker struggles with _ for the first time.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2500",
+    "type": "Q",
+    "text": "In his farewell address, George Washington famously warned Americans about the dangers of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2505",
+    "type": "Q",
+    "text": "In his new action comedy, Jackie Chan must fend off ninjas while also dealing with _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2509",
+    "type": "Q",
+    "text": "In his new self-produced album, Kanye West raps over the sounds of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2510",
+    "type": "Q",
+    "text": "In his new summer comedy, Rob Schneider is _ trapped in the body of _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2511",
+    "type": "Q",
+    "text": "In his newest and most difficult stunt, David Blaine must escape from _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2513",
+    "type": "Q",
+    "text": "In its new tourism campaign, Detroit proudly proclaims that it has finally eliminated _.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2520",
+    "type": "Q",
+    "text": "In L.A. County Jail, word is you can trade 200 cigarettes for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2522",
+    "type": "Q",
+    "text": "In M. Night Shyamalan's new movie, Bruce Willis discovers that _ had really been _ all along.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2523",
+    "type": "Q",
+    "text": "In Michael Jackson's final moments, he thought about _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2541",
+    "type": "Q",
+    "text": "In Radiohead's new single, Thom Yorke repeats the phrase \"_\" dozens of times over a skittering drum beat.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2542",
+    "type": "Q",
+    "text": "In return for my soul, the Devil promised me _, but all I got was _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2543",
+    "type": "Q",
+    "text": "In Rome, there are whisperings that the Vatican has a secret room devoted to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2548",
+    "type": "Q",
+    "text": "In the 1950s, psychologists prescribed _ as a cure for homosexually.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2549",
+    "type": "Q",
+    "text": "In the beginning, there was _. And the Lord said, \"Let there be _.\"",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2556",
+    "type": "Q",
+    "text": "In the distant future, historians will agree that _ marked the beginning of America's decline.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2572",
+    "type": "Q",
+    "text": "In the new Disney Channel Original Movie, Hannah Montana struggles with _ for the first time.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2583",
+    "type": "Q",
+    "text": "In the seventh circle of Hell, sinners must endure _ for all eternity.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2604",
+    "type": "Q",
+    "text": "In Wormwood Scrubs, word is you can trade 200 cigarettes for _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2605",
+    "type": "Q",
+    "text": "In Wormwood Scrubs, word is you can trade 200 cigarettes for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2615",
+    "type": "Q",
+    "text": "Instead of coal, Father Christmas now gives the bad children _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2616",
+    "type": "Q",
+    "text": "Instead of coal, Santa now gives the bad children _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2631",
+    "type": "Q",
+    "text": "Introducing the amazing superhero/sidekick duo! It's _ and _!",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2632",
+    "type": "Q",
+    "text": "Introducing X-Treme Baseball! It's like baseball, but with _!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2655",
+    "type": "Q",
+    "text": "It lurks in the night. It hungers for flesh. This summer, no one is safe from _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2669",
+    "type": "Q",
+    "text": "It turns out the Reapers didn't want to destroy the galaxy. They just wanted _.",
+    "answers": 1,
+    "set": "mass effect pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2676",
+    "type": "Q",
+    "text": "It's 3AM.  The red phone rings.  It's _.  Who do you want answering?",
+    "answers": 1,
+    "set": "vote for trump pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2685",
+    "type": "Q",
+    "text": "It's a trap!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2694",
+    "type": "Q",
+    "text": "It's beginning to look a lot like _.",
+    "answers": 1,
+    "set": "seasons greetings pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q2698",
+    "type": "Q",
+    "text": "It's finally happening! I'm finally doing it! Yes! It's time for _!",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2701",
+    "type": "Q",
+    "text": "It's late at night. You're in bed with your lover, Patrick Stewart. He leans over with a twinkle in his eye and asks \"How about _?\"",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2718",
+    "type": "Q",
+    "text": "It's the 21st century.\nA woman shouldn't have to apologize for _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2721",
+    "type": "Q",
+    "text": "It’s a pity that kids these days are all getting involved with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2729",
+    "type": "Q",
+    "text": "James is a lonely boy. But when he discovers a secret door in his attic, he meets a magical new friend: _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2730",
+    "type": "Q",
+    "text": "Jellicle Cats come out tonight, Jellicle Cats come one, come all, the time for _ is now, Jellicles come to the Jellicle Ball.",
+    "answers": 1,
+    "set": "theatre pack - cats musical pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2732",
+    "type": "Q",
+    "text": "Jesus is _.",
+    "answers": 1,
+    "set": "2012 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q2743",
+    "type": "Q",
+    "text": "Just once, I'd like to hear you say \"Thanks, Mom. Thanks for _.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2744",
+    "type": "Q",
+    "text": "Just once, I'd like to hear you say \"Thanks, Mum. Thanks for _.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2745",
+    "type": "Q",
+    "text": "Just saw this upsetting video! Please retweet!! #stop_",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2757",
+    "type": "Q",
+    "text": "Ken \"_\" Steacy went back into his archives and found his original sketches for _.",
+    "answers": 2,
+    "set": "desert bus for hope pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2764",
+    "type": "Q",
+    "text": "Kids these days with their iPods and their Internet. In my day, all we needed to pass the time was _.",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q2767",
+    "type": "Q",
+    "text": "Kids, I don't need drugs to get high. I'm high on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2777",
+    "type": "Q",
+    "text": "Ladies and gentlemen, I propose a two-pronged plan. The first prong will be _, and the second prong will be _.",
+    "answers": 2,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2802",
+    "type": "Q",
+    "text": "Legend has it Prince wouldn't perform without _ in his dressing room.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2805",
+    "type": "Q",
+    "text": "Leni Riefenstahl's last movie was called Triumph of _.",
+    "answers": 1,
+    "set": "fascism pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2817",
+    "type": "Q",
+    "text": "Let's take it from the top, and remember, you are _. Show me  _(SAME CARD AGAIN)_.",
+    "answers": 1,
+    "set": "theatre pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2820",
+    "type": "Q",
+    "text": "Life for Aboriginal people was forever changed when the white man introduced them to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2821",
+    "type": "Q",
+    "text": "Life for American Indians was forever changed when the White Man introduced them to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2827",
+    "type": "Q",
+    "text": "Life was difficult for cavemen before _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2830",
+    "type": "Q",
+    "text": "Life's pretty tough in the fast lane. That's why I never leave the house without _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2833",
+    "type": "Q",
+    "text": "Lifetime® presents _: the Story of _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2834",
+    "type": "Q",
+    "text": "Lifetime® presents \"_: the Story of _.\"",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2839",
+    "type": "Q",
+    "text": "Listen Gary, I like you. But if you want that corner office, you're going to have to show me _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2841",
+    "type": "Q",
+    "text": "Listen, son. If you want to get involved with _, I won’t stop you. Just steer clear of _.",
+    "answers": 2,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2843",
+    "type": "Q",
+    "text": "Little Miss Muffet Sat on a tuffet, Eating her curds and _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2844",
+    "type": "Q",
+    "text": "Live from Universal Studios, it's America's favorite game show! \"_ or _?\"",
+    "answers": 2,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2859",
+    "type": "Q",
+    "text": "Lovin’ you is easy ’cause you’re _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2861",
+    "type": "Q",
+    "text": "LSD + _ = really bad time.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2867",
+    "type": "Q",
+    "text": "Major League Baseball has banned _ for giving players an unfair advantage.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2871",
+    "type": "Q",
+    "text": "Make a haiku.",
+    "answers": 3,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2879",
+    "type": "Q",
+    "text": "Man, this is bullshit. Fuck _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2894",
+    "type": "Q",
+    "text": "Match-maker,\nmatch-maker,\nmake me a match.\nFind me _.",
+    "answers": 1,
+    "set": "theatre pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q2895",
+    "type": "Q",
+    "text": "Mate, do not go in that bathroom. There's _ in there.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2896",
+    "type": "Q",
+    "text": "Mate, do not go in that toilet. There's _ in there.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2904",
+    "type": "Q",
+    "text": "Maybe she's born with it. Maybe it's _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2911",
+    "type": "Q",
+    "text": "Members of New York's social elite are paying thousands of dollars just to experience _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2913",
+    "type": "Q",
+    "text": "Men's Wearhouse: You're gonna like _. I guarantee it.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2916",
+    "type": "Q",
+    "text": "Michael Bay's new three-hour action epic pits _ against _.",
+    "answers": 2,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2919",
+    "type": "Q",
+    "text": "Military historians remember Alexander the Great for his brilliant use of _ against the Persians.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2922",
+    "type": "Q",
+    "text": "Millions of copies sold! Donald Trump's \"The Art of _.\"",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2935",
+    "type": "Q",
+    "text": "Mom’s to-do list:\n * Buy Groceries\n * Clean up _.\n * Soccer Practice.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2940",
+    "type": "Q",
+    "text": "Money can’t buy me love, but it can buy me _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2945",
+    "type": "Q",
+    "text": "Most Americans would not vote for a candidate who is openly _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q2952",
+    "type": "Q",
+    "text": "Mr. and Mrs. Diaz, we called you in because we're concerned about Cynthia. Are you aware that your daughter is _?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2955",
+    "type": "Q",
+    "text": "MTV's new reality show features eight washed-up celebrities living with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q2992",
+    "type": "Q",
+    "text": "My country, 'tis of thee, sweet land of _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3031",
+    "type": "Q",
+    "text": "My fellow Americans: Before this decade is out, we will have _ on the moon!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3044",
+    "type": "Q",
+    "text": "My grandfather worked his way up from nothing. When he came to this country, all he had was the shoes on his feet and _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3055",
+    "type": "Q",
+    "text": "My gym teacher got fired for adding _ to the obstacle course.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3073",
+    "type": "Q",
+    "text": "My life is ruled by a vicious cycle of _ and _.",
+    "answers": 2,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3083",
+    "type": "Q",
+    "text": "My mom freaked out when she looked at my browser history and found _.com/_.",
+    "answers": 2,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3101",
+    "type": "Q",
+    "text": "My name is Inigo Montoya. You killed my father. Prepare for _.",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3103",
+    "type": "Q",
+    "text": "My new favorite porn star is Joey \"_\" McGee.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3130",
+    "type": "Q",
+    "text": "My plan for world domination begins with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3192",
+    "type": "Q",
+    "text": "New at TGI Fridays! It's what you've been waiting for: The _ Burger.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3204",
+    "type": "Q",
+    "text": "Next from J.K. Rowling: Harry Potter and the Chamber of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3209",
+    "type": "Q",
+    "text": "Next on ESPN2: The World Series of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3210",
+    "type": "Q",
+    "text": "Next on Eurosport: The World Championship of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3211",
+    "type": "Q",
+    "text": "Next on Nine's Wide World of Sports: The World Championship of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3212",
+    "type": "Q",
+    "text": "Next on Sky Sports: The World Championship of _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3213",
+    "type": "Q",
+    "text": "Next on Sky Sports: The World Championship of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3217",
+    "type": "Q",
+    "text": "Next on TSN: The World Series of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3219",
+    "type": "Q",
+    "text": "Next season on Man vs, Wild, Bear Grylls must survive the depths of the Amazon with only _ and his wits.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3220",
+    "type": "Q",
+    "text": "Next time on Dr. Phil: How to talk to your child about _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3224",
+    "type": "Q",
+    "text": "Next up on Channel 4: Ramsay's _ Nightmares.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3227",
+    "type": "Q",
+    "text": "Next week on Discovery Channel, one man must survive in the depths of the Amazon with only _ and his wits.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3228",
+    "type": "Q",
+    "text": "Next week on the Discovery Channel, one man must survive in the depths of the Amazon with only _ and his wits.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3254",
+    "type": "Q",
+    "text": "No, no, no, no, no, no, NO! I will NOT let _ ruin this wedding.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3255",
+    "type": "Q",
+    "text": "Nobody expects the Spanish Inquisition! Our chief weapons are fear, surprise, and _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3256",
+    "type": "Q",
+    "text": "Nobody expects the Spanish Inquisition. Our chief weapons are fear, surprise, and _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3291",
+    "type": "Q",
+    "text": "Now at the National Museum of Australia: an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3292",
+    "type": "Q",
+    "text": "Now at the Natural History Museum: an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3293",
+    "type": "Q",
+    "text": "Now at the Royal Ontario Museum: an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3294",
+    "type": "Q",
+    "text": "Now at the Smithsonian: an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3295",
+    "type": "Q",
+    "text": "Now in bookstores: \"The Audacity of _\" by Barack Obama.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3297",
+    "type": "Q",
+    "text": "Now is the winter of our discontent, made glorious summer by _.",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3308",
+    "type": "Q",
+    "text": "O Canada, we stand on guard for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3322",
+    "type": "Q",
+    "text": "Oh no!\nHere it comes!\nOhhhhh god!\nIt's _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3326",
+    "type": "Q",
+    "text": "Oh no! Siri, how do I fix _?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3331",
+    "type": "Q",
+    "text": "Oh you haaaaaaave to see this new documentary on Netflix. I don't want to give anything away, but let's just say it will change the way you look at _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3334",
+    "type": "Q",
+    "text": "Oh, the weather outside is frightful. But _ is so delightful.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3335",
+    "type": "Q",
+    "text": "Oh, your daughter should meet my son! He gives to charity, he loves _ and did I mention he's a doctor?",
+    "answers": 1,
+    "set": "jew pack/chosen people pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q3336",
+    "type": "Q",
+    "text": "Oi! Show us _!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3338",
+    "type": "Q",
+    "text": "Old MacDonald had _. E-I-E-I-O.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3357",
+    "type": "Q",
+    "text": "On the third day of Christmas, my true love gave to me: three French hens, two turtle doves, and _.",
+    "answers": 1,
+    "set": "2012 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q3371",
+    "type": "Q",
+    "text": "One more thing. Watch out for Big Mike. They say he killed a man with _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3386",
+    "type": "Q",
+    "text": "One, two, three and to the four, Snoop Doggy Dogg and Dr. Dre is _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3390",
+    "type": "Q",
+    "text": "Only two things in life are certain: death and _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3392",
+    "type": "Q",
+    "text": "Ooo, daddy like _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3397",
+    "type": "Q",
+    "text": "Oprah's book of the month is \"_ For _: A Story of Hope.\"",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3407",
+    "type": "Q",
+    "text": "Our relationship is strictly professional. Let's not complicate things with _.",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3423",
+    "type": "Q",
+    "text": "Patient presents with _ . Likely a result of _.",
+    "answers": 2,
+    "set": "cah: fifth expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3424",
+    "type": "Q",
+    "text": "Patient presents with _. Likely a result of _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3428",
+    "type": "Q",
+    "text": "Penalty! _: that's 5 minutes in the box!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3440",
+    "type": "Q",
+    "text": "Personal foul: _. 15-yard penalty. Automatic first down.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3459",
+    "type": "Q",
+    "text": "Poor Brandon, still living in his parent’s basement. I heard he never got over _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3472",
+    "type": "Q",
+    "text": "Puberty is a time of change. You might notice hair growing in new places. You might develop an intrest in _. This is normal.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3475",
+    "type": "Q",
+    "text": "Qantas now prohibits _ on airplanes.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3490",
+    "type": "Q",
+    "text": "Revealed: Why He Really Resigned! Pope Benedict’s Secret Struggle with _.",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q3505",
+    "type": "Q",
+    "text": "Rub a dub dub, _ in a tub!",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3510",
+    "type": "Q",
+    "text": "Rumor has it that Vladimir Putin's favorite dish is _ stuffed with _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3514",
+    "type": "Q",
+    "text": "Run, run, as fast as you can! You can’t catch me, I’m _!",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3524",
+    "type": "Q",
+    "text": "Say it loud! I'm _ and I'm proud!",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3533",
+    "type": "Q",
+    "text": "Science will never explain _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3534",
+    "type": "Q",
+    "text": "Science will never explain the origin of _.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3543",
+    "type": "Q",
+    "text": "Senator, I trust you enjoyed _ last night.  Now, can I count on your vote?",
+    "answers": 1,
+    "set": "vote for hillary pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3544",
+    "type": "Q",
+    "text": "Seriously guys, there's nothing funny about _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3555",
+    "type": "Q",
+    "text": "She's up all night for good fun. I'm up all night for _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3556",
+    "type": "Q",
+    "text": "She’s a lady in the streets, _ in the sheets.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3557",
+    "type": "Q",
+    "text": "She’s just one of the guys, you know? She likes beer, and football, and _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3573",
+    "type": "Q",
+    "text": "Sir, we found you passed out naked on the side of the road. What's the last thing you remember?",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3579",
+    "type": "Q",
+    "text": "Skidamarink a dink a dink, skidamarink a doo, I love _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3586",
+    "type": "Q",
+    "text": "So apparently Dad was searching Pornhub for \"hot milf _.\"",
+    "answers": 1,
+    "set": "dad pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3605",
+    "type": "Q",
+    "text": "Some men aren't looking for anything logical, like money. They can't be bought, bullied, reasoned or negotiated with. Some men just want _.",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3613",
+    "type": "Q",
+    "text": "Son, take it from someone who’s been around the block a few times. Nothin’ puts her in the mood like _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3615",
+    "type": "Q",
+    "text": "Sorry everyone, I just _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3629",
+    "type": "Q",
+    "text": "Step 1: _.\nStep 2: _.\nStep 3: Profit.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3652",
+    "type": "Q",
+    "text": "Studies show that lab rats navigate mazes 50% faster after being exposed to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3658",
+    "type": "Q",
+    "text": "Summer lovin’, had me a blast. _, happened so fast.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3676",
+    "type": "Q",
+    "text": "Sweetheart, you and your sister escel in different ways. She's got her violin, and you've got _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3694",
+    "type": "Q",
+    "text": "TFL apologizes for the delay in train service due to _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3710",
+    "type": "Q",
+    "text": "That's bullshit! They can't fire me for _!",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3714",
+    "type": "Q",
+    "text": "That's right, I killed _. How, you ask? _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3783",
+    "type": "Q",
+    "text": "The blind date was going horribly until we discovered our shared interest in _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3795",
+    "type": "Q",
+    "text": "The CIA now interrogates enemy agents by repeatedly subjecting them to _.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3797",
+    "type": "Q",
+    "text": "The class field trip was completely ruined by _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3820",
+    "type": "Q",
+    "text": "The elders of the Ibo tribe of Nigeria recommend _ as a cure for impotence.",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3831",
+    "type": "Q",
+    "text": "The fault, dear Brutus, is not in our stars, but in _.",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3844",
+    "type": "Q",
+    "text": "The Five Stages of Grief: denial, anger, bargaining, _, acceptance.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3846",
+    "type": "Q",
+    "text": "The four shifts at Desert Bus: Dawn Guard, Alpha Flight, Night Watch and _.",
+    "answers": 1,
+    "set": "desert bus for hope pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q3858",
+    "type": "Q",
+    "text": "The healing process began when I joined a support group for victims of _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3873",
+    "type": "Q",
+    "text": "The Japanese have developed a smaller, more efficient version of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q3932",
+    "type": "Q",
+    "text": "The Natural History Museum has just opened an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3933",
+    "type": "Q",
+    "text": "The Natural History Museum has just opened an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q3936",
+    "type": "Q",
+    "text": "The new Chevy Tahoe. With the power and space to take _ everywhere you go.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4025",
+    "type": "Q",
+    "text": "The Royal Ontario Museum has just opened an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah: canadian conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4028",
+    "type": "Q",
+    "text": "The school excursion was completely ruined by _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4029",
+    "type": "Q",
+    "text": "The school field trip was completely ruined by _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4031",
+    "type": "Q",
+    "text": "The school trip was completely ruined by _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4039",
+    "type": "Q",
+    "text": "The secret to a lasting marriage is communication, communication, and _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4044",
+    "type": "Q",
+    "text": "The sequel is here! Get Ready for _2: _.",
+    "answers": 2,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4054",
+    "type": "Q",
+    "text": "The six things I could never do without: oxygen, Facebook, chocolate, Netflix, friends, and _ LOL!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4058",
+    "type": "Q",
+    "text": "The Smithsonian Museum of Natural History has just opened an interactive exhibit on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4062",
+    "type": "Q",
+    "text": "The socialist governments of Scandinavia have declared that access to _ is a basic human right.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4078",
+    "type": "Q",
+    "text": "The TFL apologizes for the delay in train service due to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4079",
+    "type": "Q",
+    "text": "The theme for next year's Eurovision Song Contest is \"We are _.\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4080",
+    "type": "Q",
+    "text": "The theme for next year’s Eurovision Song Contest is “We are _.”",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4091",
+    "type": "Q",
+    "text": "The top Google auto-complete results for “Barack Obama”:\nBarack Obama Height.\nBarack Obama net worth.\nBarack Obama _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4102",
+    "type": "Q",
+    "text": "The U.S. has begun airdropping _ to the children of Afghanistan.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4111",
+    "type": "Q",
+    "text": "The votes are in, and the new high school mascot is _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4116",
+    "type": "Q",
+    "text": "The Westboro Baptist Church is now picketing soldiers' funerals with signs that read 'GOD HATES _!'",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4134",
+    "type": "Q",
+    "text": "Then the princess kissed the frog, and all of a sudden the frog was _!",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4149",
+    "type": "Q",
+    "text": "There is no God. It’s just _ and then you die.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4192",
+    "type": "Q",
+    "text": "They said we were crazy. They said we couldn't put _ inside of _. They were wrong.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4214",
+    "type": "Q",
+    "text": "This Friday at the Liquid Lunge, it’s _ Night! Ladies drink free.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4218",
+    "type": "Q",
+    "text": "This holiday season, Tim Allen must overcome his fear of _ to save Christmas.",
+    "answers": 1,
+    "set": "seasons greetings pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q4221",
+    "type": "Q",
+    "text": "This is America. If you don't work hard, you don't succeed. I don't care if you're black, white, purple, or _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4226",
+    "type": "Q",
+    "text": "This is the prime of my life. I'm young, hot, and full of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4227",
+    "type": "Q",
+    "text": "This is the way the world ends\nThis is the way the world ends\nNot with a bang but with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4229",
+    "type": "Q",
+    "text": "This is your captain speaking. Fasten your seatbelts and prepare for _.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4235",
+    "type": "Q",
+    "text": "This month's Cosmo: \"Spice up your sex life by bringing _ into the bedroom.\"",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4241",
+    "type": "Q",
+    "text": "This season at Manhattan Theatre Club: \"Who's afraid of _?\"",
+    "answers": 1,
+    "set": "theatre pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4242",
+    "type": "Q",
+    "text": "This season at Steppenwolf, Samuel Beckett's classic existential play: Waitng for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4243",
+    "type": "Q",
+    "text": "This season at the old Vic, Samuel Beckett's classic existential play: Waitng for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4244",
+    "type": "Q",
+    "text": "This season at the Princess of Wales Theatre, Samuel Beckett's classic existential play: Waiting for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4245",
+    "type": "Q",
+    "text": "This season at the Sydney Opera House, Samuel Beckett's classic existential play: Waiting for _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4246",
+    "type": "Q",
+    "text": "This season on Man vs. Wild, Bear Grylls must survive in the depths of the Amazon with only _ and his wits.",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4257",
+    "type": "Q",
+    "text": "This year's hottest album is \"_\" by _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4268",
+    "type": "Q",
+    "text": "Times have changed, girlfriend. If you want to meet people in New York, you got to be down for _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4276",
+    "type": "Q",
+    "text": "To become a true Yanomami warrior, you must prove that you can withstand _ without crying out.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4277",
+    "type": "Q",
+    "text": "To become a true Yanomamo warrior, you must prove that you can withstand _ without crying out.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4295",
+    "type": "Q",
+    "text": "To prepare for his upcoming role, Daniel Day-Lewis immersed himself in the world of _.",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4310",
+    "type": "Q",
+    "text": "Today on Buzzfeed: 10 pictures of _ That look like _!",
+    "answers": 2,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q4311",
+    "type": "Q",
+    "text": "Today on Jerry Springer: \"Help! My son is _!\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4312",
+    "type": "Q",
+    "text": "Today on Maury: \"Help! My son is _!\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4315",
+    "type": "Q",
+    "text": "Today on The Jeremy Kyle Show: \"Help! My son is _!\"",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4316",
+    "type": "Q",
+    "text": "Today on The Jeremy Kyle Show: “Help! My son is _!”",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4333",
+    "type": "Q",
+    "text": "Tonight on 20/20: What you don't know about _ could kill you.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4340",
+    "type": "Q",
+    "text": "Tonight we will have sex. And afterwards, If you'd like, a little bit of _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4342",
+    "type": "Q",
+    "text": "Tonight's top story: What you don't know about _ could kill you.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4369",
+    "type": "Q",
+    "text": "Trump's great!  Trump's got _.  I love that.",
+    "answers": 1,
+    "set": "vote for trump pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4377",
+    "type": "Q",
+    "text": "TSA guidelines now prohibit _ on airplanes.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4382",
+    "type": "Q",
+    "text": "Turns out that _-Man was neither the hero we needed nor wanted.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4391",
+    "type": "Q",
+    "text": "Uh, hey guys, I know this was my idea, but I'm having serious doubts about _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4392",
+    "type": "Q",
+    "text": "UKIP: Putting _ First!",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4405",
+    "type": "Q",
+    "text": "Unfortunately, no one can be told what _ is. You have to experience it for yourself.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4429",
+    "type": "Q",
+    "text": "Wait, I came here to buy socks. How did I wind up with _?",
+    "answers": 1,
+    "set": "retail product pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4431",
+    "type": "Q",
+    "text": "Wake up, America. Christmas is under attack by secular liberals and their _.",
+    "answers": 1,
+    "set": "2012 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q4436",
+    "type": "Q",
+    "text": "War! What is it good for?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4453",
+    "type": "Q",
+    "text": "We do not shake with our left hands in this country. That is the hand we use for _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4468",
+    "type": "Q",
+    "text": "We never did find _, but along the way we sure learned a lot about _.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4475",
+    "type": "Q",
+    "text": "We want a pitcher, not _!",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4481",
+    "type": "Q",
+    "text": "We were the two best hand-to-hand combatants on the ship. I had reach, but she had _.",
+    "answers": 1,
+    "set": "mass effect pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4490",
+    "type": "Q",
+    "text": "We're here! We're _! Get used to it!",
+    "answers": 1,
+    "set": "pride pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4492",
+    "type": "Q",
+    "text": "We're not like other news organizations. Here at Slugline, we welcome _ in the office.",
+    "answers": 1,
+    "set": "house of cards pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4500",
+    "type": "Q",
+    "text": "Welcome to Señor Frog's! Would you like to try our signature cocktail, “_ on the Beach\"?",
+    "answers": 1,
+    "set": "cah: red box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4504",
+    "type": "Q",
+    "text": "Well if _ is a crime, then lock me up!",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4505",
+    "type": "Q",
+    "text": "Well if _ is good enough for _, it's good enough for me.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4506",
+    "type": "Q",
+    "text": "Well if you'll excuse me, gentlemen, I have a date with _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4508",
+    "type": "Q",
+    "text": "Well what do you have to say for yourself, Casey? This is the third time you've been sent to the principal's office for _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4509",
+    "type": "Q",
+    "text": "Well, shit. My eyes ain’t so good, but I’ll eat my own boot if that ain’t _!",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4512",
+    "type": "Q",
+    "text": "Wes Anderson's new film tells the story of a precocious child coming to terms with _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4515",
+    "type": "Q",
+    "text": "Whaddya think, money grows on trees? I'm not paying for _!",
+    "answers": 1,
+    "set": "dad pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4519",
+    "type": "Q",
+    "text": "What am I giving up for Lent?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4522",
+    "type": "Q",
+    "text": "What are all those whales singing about?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4526",
+    "type": "Q",
+    "text": "What are my parents hiding from me?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4528",
+    "type": "Q",
+    "text": "What are school administrators using to curb rampant teenage pregnancy?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4530",
+    "type": "Q",
+    "text": "What are two cards in your hand that you want to get rid of?",
+    "answers": 2,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4534",
+    "type": "Q",
+    "text": "What broke up the original Wiggles?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4537",
+    "type": "Q",
+    "text": "What brought the orgy to a grinding halt?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4552",
+    "type": "Q",
+    "text": "What did I bring back from Amsterdam?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4553",
+    "type": "Q",
+    "text": "What did I bring back from Bali?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4555",
+    "type": "Q",
+    "text": "What did I bring back from Mexico?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4571",
+    "type": "Q",
+    "text": "What did the US airdrop to the children of Afghanistan?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4574",
+    "type": "Q",
+    "text": "What did Vin Diesel eat for dinner?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4597",
+    "type": "Q",
+    "text": "What do old people smell like?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4612",
+    "type": "Q",
+    "text": "What do you see? [An image of a Rorschach inkblot]",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q4615",
+    "type": "Q",
+    "text": "What does Dick Cheney prefer?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4633",
+    "type": "Q",
+    "text": "What don't you want to find in your Chinese food?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4634",
+    "type": "Q",
+    "text": "What don't you want to find in your doner kebab?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4635",
+    "type": "Q",
+    "text": "What don't you want to find in your Kung Pao chicken?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4636",
+    "type": "Q",
+    "text": "What don't you want to find in your Mongolian beef?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4643",
+    "type": "Q",
+    "text": "What ended my last relationship?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4654",
+    "type": "Q",
+    "text": "What gets better with age?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4659",
+    "type": "Q",
+    "text": "What gives me uncontrollable gas?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4666",
+    "type": "Q",
+    "text": "What has been making life difficult at the nudist colony?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4668",
+    "type": "Q",
+    "text": "What has my life become? I'm jerking off to a video called \"co-ed absolutely destroyed by _.\"",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4672",
+    "type": "Q",
+    "text": "What helps Barack Obama unwind?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4675",
+    "type": "Q",
+    "text": "What helps Obama unwind?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4688",
+    "type": "Q",
+    "text": "What is Batman's guilty pleasure?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4696",
+    "type": "Q",
+    "text": "What is George W. Bush thinking about right now?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4763",
+    "type": "Q",
+    "text": "What keeps me warm during the cold, cold winter?",
+    "answers": 1,
+    "set": "2012 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q4765",
+    "type": "Q",
+    "text": "What kept Margaret Thatcher busy in her waning years?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4767",
+    "type": "Q",
+    "text": "What killed my boner?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4770",
+    "type": "Q",
+    "text": "What left this stain on my couch?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4773",
+    "type": "Q",
+    "text": "What made my first kiss so awkward?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4788",
+    "type": "Q",
+    "text": "What makes life worth living?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4790",
+    "type": "Q",
+    "text": "What makes me a true blue Aussie?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4803",
+    "type": "Q",
+    "text": "What never fails to liven up the party?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4831",
+    "type": "Q",
+    "text": "What sounds great after four margaritas?",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4834",
+    "type": "Q",
+    "text": "What sucks balls?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4843",
+    "type": "Q",
+    "text": "What totally destroyed my asshole?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4846",
+    "type": "Q",
+    "text": "What turned me into a Republican?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4866",
+    "type": "Q",
+    "text": "What will always get you laid?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4873",
+    "type": "Q",
+    "text": "What will end racism once and for all?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4878",
+    "type": "Q",
+    "text": "What will I bring back in time to convince people that I am a powerful wizard?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4887",
+    "type": "Q",
+    "text": "What would grandma find disturbing, yet oddly charming?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4903",
+    "type": "Q",
+    "text": "What's a girl's best friend?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4916",
+    "type": "Q",
+    "text": "What's fun until it gets weird?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4918",
+    "type": "Q",
+    "text": "What's harshing my mellow, man?",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4920",
+    "type": "Q",
+    "text": "What's hot, smelly, and about to die?",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4932",
+    "type": "Q",
+    "text": "What's making things awkward in the sauna?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4937",
+    "type": "Q",
+    "text": "What's my anti-drug?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4945",
+    "type": "Q",
+    "text": "What's my secret power?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4954",
+    "type": "Q",
+    "text": "What's secretly a Russian plot to destabilize the West?",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4955",
+    "type": "Q",
+    "text": "What's so important right now that you can't call your mother?",
+    "answers": 1,
+    "set": "jew pack/chosen people pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q4956",
+    "type": "Q",
+    "text": "What's Teach for America using to inspire inner city students to succeed?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4959",
+    "type": "Q",
+    "text": "What's that smell?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4960",
+    "type": "Q",
+    "text": "What's that sound?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4969",
+    "type": "Q",
+    "text": "What's the Canadian government using to inspire rural students to succeed?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4970",
+    "type": "Q",
+    "text": "What's the crustiest?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4975",
+    "type": "Q",
+    "text": "What's the gift that keeps on giving?",
+    "answers": 1,
+    "set": "cah: first expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q4984",
+    "type": "Q",
+    "text": "What's the most emo?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4986",
+    "type": "Q",
+    "text": "What's the new fad diet?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4989",
+    "type": "Q",
+    "text": "What's the next Happy Meal® toy?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4990",
+    "type": "Q",
+    "text": "What's the next superhero/sidekick duo?",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q4991",
+    "type": "Q",
+    "text": "What's the one thing that makes an elf instantly ejaculate?",
+    "answers": 1,
+    "set": "seasons greetings pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q5002",
+    "type": "Q",
+    "text": "What's there a ton of in heaven?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5003",
+    "type": "Q",
+    "text": "What's there a tonne of in heaven?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5010",
+    "type": "Q",
+    "text": "What's up, YouTube?\nUser DanTheMan wanted to see _, so here we go.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5011",
+    "type": "Q",
+    "text": "What's wrong with these gorillas?",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5020",
+    "type": "Q",
+    "text": "What’s a total waste of Hillary Clinton’s time?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5021",
+    "type": "Q",
+    "text": "What’s about to take dance floor to the next level?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5025",
+    "type": "Q",
+    "text": "What’s the gayest?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5027",
+    "type": "Q",
+    "text": "What’s the most problematic?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5028",
+    "type": "Q",
+    "text": "What’s the one thing that makes an elf instantly ejaculate?",
+    "answers": 1,
+    "set": "2013 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q5048",
+    "type": "Q",
+    "text": "When all else fails, I can always masturbate to _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5049",
+    "type": "Q",
+    "text": "When asked about the biggest threat facing the nation, 60% of Americans said _.",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5062",
+    "type": "Q",
+    "text": "When I am a billionare, I shall erect a 20-meter statue to commemorate _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5063",
+    "type": "Q",
+    "text": "When I am a billionare, I shall erect a 20-metre statue to commemorate _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5064",
+    "type": "Q",
+    "text": "When I am a billionare, I shall erect a 50-foot statue to commemorate _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5068",
+    "type": "Q",
+    "text": "When I am President of the United States, I will create the Department of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5069",
+    "type": "Q",
+    "text": "When I am President, I will create the Department of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5070",
+    "type": "Q",
+    "text": "When I am Prime Minister of Canada, I will create the Department of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5071",
+    "type": "Q",
+    "text": "When I am Prime Minister of Canada, I will create the Ministry of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5072",
+    "type": "Q",
+    "text": "When I am Prime Minister of the United Kingdom, I will create the Ministry of _.",
+    "answers": 1,
+    "set": "cah: uk conversion kit",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5073",
+    "type": "Q",
+    "text": "When I am Prime Minister of the United Kingdom, I will create the Ministry of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5074",
+    "type": "Q",
+    "text": "When I am Prime Minister, I will create the Department of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5075",
+    "type": "Q",
+    "text": "When I am Prime Minister, I will create the Ministry of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5097",
+    "type": "Q",
+    "text": "When I pooped, what came out of my butt?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5108",
+    "type": "Q",
+    "text": "When I was a kid, we used to play Cowboys and _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5142",
+    "type": "Q",
+    "text": "When Pharaoh remained unmoved, Moses called down a Plague of _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5173",
+    "type": "Q",
+    "text": "When you get right down to it, _ is just _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5174",
+    "type": "Q",
+    "text": "When you go to the polls on Tuesday, remember:  a vote for me is a vote for _.",
+    "answers": 1,
+    "set": "vote for hillary pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5210",
+    "type": "Q",
+    "text": "While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5219",
+    "type": "Q",
+    "text": "White people like _.",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5233",
+    "type": "Q",
+    "text": "Who stole the cookies from the cookie jar?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5244",
+    "type": "Q",
+    "text": "WHOOO! God damn I love _!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5250",
+    "type": "Q",
+    "text": "Why am I broke?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5252",
+    "type": "Q",
+    "text": "Why am I laughing and crying and taking off my clothes?",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5255",
+    "type": "Q",
+    "text": "Why am I so tired?",
+    "answers": 1,
+    "set": "2014 holiday pack",
+    "sheet": "cah packs/holiday packs"
+  },
+  {
+    "id": "Q5257",
+    "type": "Q",
+    "text": "Why am I sticky?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5264",
+    "type": "Q",
+    "text": "Why can't I sleep at night?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5273",
+    "type": "Q",
+    "text": "Why did the chicken cross the road?",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5284",
+    "type": "Q",
+    "text": "Why do I hurt all over?",
+    "answers": 1,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5326",
+    "type": "Q",
+    "text": "Why my mustache smell so bad?",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5343",
+    "type": "Q",
+    "text": "Why won't you make love to me anymore? Is it _?",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5350",
+    "type": "Q",
+    "text": "With a one-time gift of just $10, you can save this child from _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5351",
+    "type": "Q",
+    "text": "With enough time and pressure, _ will turn into _.",
+    "answers": 2,
+    "set": "cah base set",
+    "sheet": "cah base set"
+  },
+  {
+    "id": "Q5366",
+    "type": "Q",
+    "text": "Y'all ready to get this thing started? I'm Nick Cannon, and this is America's Got _.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5367",
+    "type": "Q",
+    "text": "YAAAAAAS! You are serving me _ realness!",
+    "answers": 1,
+    "set": "pride pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5370",
+    "type": "Q",
+    "text": "Yeah that's so hot.\nI'm so close.\nTalk about _ again!\nOH I'M CUMMING!",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5383",
+    "type": "Q",
+    "text": "Yo' mama's so fat she _!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5389",
+    "type": "Q",
+    "text": "You are not alone. Millions of Americans struggle with _ every day.",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5395",
+    "type": "Q",
+    "text": "You can call me David Copperfield, because I'm about to make _ disappear.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5408",
+    "type": "Q",
+    "text": "You can't wait forever. It's time to talk to your doctor about _.",
+    "answers": 1,
+    "set": "reject pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5409",
+    "type": "Q",
+    "text": "You city folk would never understand the quiet dignity of _.",
+    "answers": 1,
+    "set": "absurd box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5415",
+    "type": "Q",
+    "text": "You guys, I saw this crazy movie last night. It opens on _, and then there's some stuff about _, and then it ends with _.",
+    "answers": 3,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5427",
+    "type": "Q",
+    "text": "You haven't truly lived until you've experienced _ and _ at the same time.",
+    "answers": 2,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5438",
+    "type": "Q",
+    "text": "You know who else liked _? Hitler.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5441",
+    "type": "Q",
+    "text": "You know, once you get past _, _ ain't so bad.",
+    "answers": 2,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5448",
+    "type": "Q",
+    "text": "You say tomato, I say _.",
+    "answers": 1,
+    "set": "reject pack 2",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5451",
+    "type": "Q",
+    "text": "You see, son, baseball is like _. Don't overthink it.",
+    "answers": 1,
+    "set": "cards against humanity saves america pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5459",
+    "type": "Q",
+    "text": "YOU try explaining _ to the media!",
+    "answers": 1,
+    "set": "desert bus for hope pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5463",
+    "type": "Q",
+    "text": "You Won't Believe These 15 Hilarious _ Bloopers!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5465",
+    "type": "Q",
+    "text": "You won’t believe what’s in my pussy. It’s _.",
+    "answers": 1,
+    "set": "cah: green box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5483",
+    "type": "Q",
+    "text": "You've seen the bearded lady! You've seen the ring of fire! Now, ladies and gentlemen, feast your eyes upon _!",
+    "answers": 1,
+    "set": "cah: blue box expansion",
+    "sheet": "cah expansions"
+  },
+  {
+    "id": "Q5484",
+    "type": "Q",
+    "text": "Young lady, you better knock it off with _ or you're grounded!",
+    "answers": 1,
+    "set": "dad pack",
+    "sheet": "cah packs/limited release packs"
+  },
+  {
+    "id": "Q5505",
+    "type": "Q",
+    "text": "Your persistence is admirable, my dear Prince. But you cannot win my heart with _ alone.",
+    "answers": 1,
+    "set": "cah : second expansion",
+    "sheet": "cah expansions"
+  }
+]
