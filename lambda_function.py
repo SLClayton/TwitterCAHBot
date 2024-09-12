@@ -1,17 +1,20 @@
 from card import *
 import random
 from datetime import datetime
-import twitter
+import tweepy
 import boto3
 import json
 
 with open("twitter_keys.json", "r") as f:
     keys = json.load(f)
 
-twitter_api = twitter.Api(consumer_key=keys["apikey"],
-                          consumer_secret=keys["apisecret"],
-                          access_token_key=keys["accesstoken"],
-                          access_token_secret=keys["accesssecret"])
+twitter_api = tweepy.Client(
+    consumer_key=keys["apikey"],
+    consumer_secret=keys["apisecret"],
+    access_token=keys["accesstoken"],
+    access_token_secret=keys["accesssecret"],
+    return_type=dict
+)
 
 
 ddb = boto3.resource("dynamodb")
@@ -214,22 +217,24 @@ def tweet_new_combo():
 
     tweet_text = combo.text
 
-    tweet = twitter_api.PostUpdate(status=tweet_text)
+    resp = twitter_api.create_tweet(
+        text=tweet_text
+    )
+    tweet_id = resp["data"]["id"]
+    add_to_history(combo, tweet_id)
 
-    add_to_history(combo, tweet.id)
-
-    return combo, tweet
+    return combo, tweet_id
 
 
 def lambda_handler(event, context):
 
-    combo, tweet = tweet_new_combo()
+    combo, tweet_id = tweet_new_combo()
 
     return {
         'statusCode': 200,
         'body': {"combo": "{}/{}".format(combo.black.id, combo.white_id()),
                  "text": combo.text,
-                 "tweet_id": tweet.id}
+                 "tweet_id": tweet_id}
     }
 
 lambda_handler(1,2)
